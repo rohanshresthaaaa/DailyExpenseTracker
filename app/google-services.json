@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456741791082",
+    "project_id": "daileexpensetracker",
+    "storage_bucket": "daileexpensetracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456741791082:android:d64855bccdf29a554ef113",
+        "android_client_info": {
+          "package_name": "com.rohan.dailyexpensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1bxeBFNRnmW19co1leVg4DL5O5z7iDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
